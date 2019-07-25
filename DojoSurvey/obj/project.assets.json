@@ -12073,23 +12073,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MarioC\\.nuget\\packages\\": {},
+    "C:\\Users\\mcampaz3\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DotNetDev\\Projects\\dojos\\DojoSurvey\\DojoSurvey.csproj",
+      "projectUniqueName": "C:\\DotNetDev\\Projects\\PracticeDojo\\dojos\\DojoSurvey\\DojoSurvey.csproj",
       "projectName": "DojoSurvey",
-      "projectPath": "C:\\DotNetDev\\Projects\\dojos\\DojoSurvey\\DojoSurvey.csproj",
-      "packagesPath": "C:\\Users\\MarioC\\.nuget\\packages\\",
-      "outputPath": "C:\\DotNetDev\\Projects\\dojos\\DojoSurvey\\obj\\",
+      "projectPath": "C:\\DotNetDev\\Projects\\PracticeDojo\\dojos\\DojoSurvey\\DojoSurvey.csproj",
+      "packagesPath": "C:\\Users\\mcampaz3\\.nuget\\packages\\",
+      "outputPath": "C:\\DotNetDev\\Projects\\PracticeDojo\\dojos\\DojoSurvey\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\MarioC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mcampaz3\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
