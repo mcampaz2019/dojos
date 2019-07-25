@@ -28,3 +28,6 @@ C:\DotNetDev\Projects\PracticeDojo\dojos\ViewModelFun\obj\Debug\netcoreapp2.2\Vi
 C:\DotNetDev\Projects\PracticeDojo\dojos\ViewModelFun\obj\Debug\netcoreapp2.2\ViewModelFun.dll
 C:\DotNetDev\Projects\PracticeDojo\dojos\ViewModelFun\obj\Debug\netcoreapp2.2\ViewModelFun.pdb
 C:\DotNetDev\Projects\PracticeDojo\dojos\ViewModelFun\obj\Debug\netcoreapp2.2\ViewModelFun.csproj.CopyComplete
+C:\DotNetDev\Projects\PracticeDojo\dojos\ViewModelFun\obj\Debug\netcoreapp2.2\Razor\Views\Home\Numbers.g.cshtml.cs
+C:\DotNetDev\Projects\PracticeDojo\dojos\ViewModelFun\obj\Debug\netcoreapp2.2\Razor\Views\Home\User.g.cshtml.cs
+C:\DotNetDev\Projects\PracticeDojo\dojos\ViewModelFun\obj\Debug\netcoreapp2.2\Razor\Views\Home\Users.g.cshtml.cs

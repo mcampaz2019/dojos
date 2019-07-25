@@ -32,13 +32,13 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Numbers" asp-action="NUmbers">Numbers</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Numbers">Numbers</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="NUmbers">User</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="User">User</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Users" asp-action="NUmbers">Users</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Users">Users</a>
                         </li>
                     </ul>
                 </div>
@@ -46,7 +46,7 @@
         </nav>
     </header>
     <div class="container">
-        <partial name="_CookieConsentPartial" />
+        
         <main role="main" class="pb-3">
             @RenderBody()
         </main>

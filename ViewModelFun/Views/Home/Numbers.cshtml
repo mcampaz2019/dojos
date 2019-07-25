@@ -1,0 +1,13 @@
+@{
+    ViewData["Title"] = "Numbers";
+    
+}
+@model int[];
+
+<div class="text-center">
+    
+        <h1>Here are some Fibo Numbers!</h1>
+    <div class="jumbotron">
+        <p>@foreach(int number in Model){<p>@number</p>}</p>
+    </div>   
+</div>
